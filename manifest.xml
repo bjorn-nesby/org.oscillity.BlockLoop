@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>BlockLoop</Name>
+  <Id>org.oscillity.BlockLoop</Id>
+  <Version>1.00</Version>
+  <ApiVersion>4</ApiVersion>
+  <Author>danoise | bjorn.nesby@gmail.com</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>Playback, Block loop</Category>
+  <Description>Brings back the previous "loop and play in one go" behavior of Renoise 2.x</Description>
+  <Homepage/>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
